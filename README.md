@@ -1,13 +1,5 @@
 ### Hi, I'm Puneet 👋
 
-<br>
-<a href="https://cpanato.dev">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=PuneetPunamiya&show_icons=true&theme=dracula" />
-</a>
-<a href="https://cpanato.dev">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetPunamiya&hide=html,css&langs_count=10&theme=dracula" />
-</a>
-
 <!--
 **PuneetPunamiya/PuneetPunamiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
